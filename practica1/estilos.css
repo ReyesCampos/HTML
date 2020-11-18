@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#header{
+    background-color: red;
+    height: 70px;
+}
+#cajas{
+    margin: 10px;
+    background-color: orange;
+    float: left;
+    width: 10%;
+    height: 50px;
+}
+#relleno{
+    width: 77%;
+    height: 70px;
+    float: left;
+}
+#seccion1{
+    height: 400px;
+    background-color: beige;
+}
+#contenedor{
+    height: 400px;
+    background-color: deeppink;
+}
+#cuadros{
+    background-color: purple;
+    margin-top: 50px;
+    margin-left: 25px;
+    width: 23%;
+    height: 300px;
+    float: left;
+}
+#contenedor2{
+    height: 400px;
+    background-color: blue;
+}
+#rectangulos{
+    background-color: violet;
+    width: 46.709%;
+    height: 300px;
+    margin-top: 35px;
+    margin-left: 25px;
+    margin-right: 25px;
+    float: left;
+}
+#footer{
+    background-color: black;
+    height: 500px;
+}
+#otrorec{
+    background-color: darkslateblue;
+    height: 65%;
+    width: 60%;
+    margin-top: 75px;
+    margin-left: 20%;
+    float: left;
+}
